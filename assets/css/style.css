@@ -1,0 +1,135 @@
+body {
+    background-color: #ffcc03;
+    color: #4666be;
+    font-family: "Orbitron";
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    text-shadow: 3px 3px #ffffff;
+}
+
+h2 {
+    margin-bottom: 0;
+    text-shadow: 2px 2px #ffffff;
+    font-weight: 700;
+}
+
+.pokemonImage {
+    filter: brightness(0);
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    left: 14%;
+    top: 20%;
+}
+
+.bright {
+    filter: brightness(1);
+}
+
+.displayNone {
+    display: none;
+}
+
+.mysteryPokemon {
+    margin-top: 8px;
+    margin-bottom: 12px;
+    letter-spacing: 10px;
+}
+
+#content {
+    text-align: center;
+    background: url("../images/GameBoyAdvance.png");
+    background-size: contain;
+    height: 384px;
+    width: 640px;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+p {
+    font-family: "Orbitron";
+    font-size: 20px;
+    margin: 0;
+}
+
+.jumbotron {
+    background: url("../images/background.png");
+    background-size: contain;
+    height: 360px;
+    width: 640px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background-color: #4666be; 
+    outline: none !important;
+    box-shadow: none;
+}
+
+.btn-primary:focus, .btn-primary:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+#gba {
+    margin-top: 38px;
+}
+
+#whoDat {
+    margin-bottom: 40px;
+}
+
+button {
+    margin-top: 20px;
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.ball {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.ball img {
+    height: 200px;
+    width: 200px;
+}
+
+#poke {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#container-landing, #container-gameplay {
+    margin-top: 40px;
+}
+
+#poke-row {
+    margin-bottom: 10px;
+}
+
+.blackout {
+    background-color: #000000;
+}
+
+#result {
+    margin-top: 40px;
+}
+
+#poke-header {
+    margin-bottom: 20px;
+}
+
+.bottom {
+    margin-top: 40px;
+}
+
+#newButton, #newBall {
+    margin-right: 5px;
+}
