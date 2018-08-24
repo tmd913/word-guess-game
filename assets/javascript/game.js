@@ -554,7 +554,7 @@ assigns relevant values to game object's name, number, and image properties
 */
 function generatePokemon () {
     let rand = Math.floor(Math.random() * 151);
-    return pokemonArray[150];
+    return pokemonArray[rand];
 };
 
 // handles key up events
