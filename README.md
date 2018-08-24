@@ -1,7 +1,5 @@
 # Who's That Pokemon?
 
------------------------------------------
-
 ## Overview
 
 Try to guess the name of the Pokemon. There are four difficulties, each with different battle and victory songs, that change the amount of guesses you get per game.
