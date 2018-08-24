@@ -206,11 +206,11 @@ const themeSounds = [
     "./assets/sounds/110-pokemon\ center.mp3",
     "./assets/sounds/107-battle\ \(vs\ wild\ pokemon\).mp3",
     "./assets/sounds/108-victory\ \(vs\ wild\ pokemon\).mp3",
-    "./assets/sounds/115-battle (vs trainer).mp3",
-    "./assets/sounds/116-victory (vs trainer).mp3",
-    "./assets/sounds/128-battle (vs gym leader).mp3",
-    "./assets/sounds/129-victory (vs gym leader).mp3",
-    "./assets/sounds/143-last battle (vs rival).mp3",
+    "./assets/sounds/115-battle\ \(vs\ trainer\).mp3",
+    "./assets/sounds/116-victory\ \(vs\ trainer\).mp3",
+    "./assets/sounds/128-battle\ \(vs\ gym\ leader\).mp3",
+    "./assets/sounds/129-victory\ \(vs\ gym\ leader\).mp3",
+    "./assets/sounds/143-last\ battle\ \(vs\ rival\).mp3",
     "./assets/sounds/145-ending.mp3"
 ]
 
