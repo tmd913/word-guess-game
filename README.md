@@ -12,6 +12,8 @@ Once your game has started, use your keyboard to guess a letter. The game will e
 
 Have fun!
 
+https://tmd913.github.io/word-guess-game/
+
 ![alt text](https://github.com/tmd913/word-guess-game/blob/master/assets/images/pokemon-landing.png?raw=true)
 ![alt text](https://github.com/tmd913/word-guess-game/blob/master/assets/images/pokemon-guess.png?raw=true)
 ![alt text](https://github.com/tmd913/word-guess-game/blob/master/assets/images/pokemon-win.png?raw=true)
